@@ -1,0 +1,26 @@
+.left-side {
+    width: 40px;
+    position: fixed;
+    bottom: 0px;
+    left: 40px;
+    right: auto;
+    z-index: 10;
+    color: #a8b2d1;
+}
+
+.left-side ul {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.left-side ul li a {
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    color: #fff;
+}
