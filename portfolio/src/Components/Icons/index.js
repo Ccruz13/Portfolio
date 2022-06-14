@@ -11,6 +11,9 @@ const Icons = () => {
                 <li>
                     <a href="https://www.linkedin.com/in/charlie-cruz-a31ab2225" target="_blank">  <i className='fab fa-linkedin' /> </a>
                 </li>
+                <li>
+                    <a> <i className="fa-solid fa-envelope"></i> </a>
+                </li>
             </ul>
         </div>
     )
